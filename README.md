@@ -6,7 +6,7 @@
 
 #### Web link 
 
- https://github.com/CHSATYANARAYANAMURTHY
+https://github.com/CHSATYANARAYANAMURTHY/Weather-Web_App
  
 ### Features of the project.
 
